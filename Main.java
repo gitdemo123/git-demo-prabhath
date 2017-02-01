@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
-* Created by prabhathp on 1/23/17.
+* created by prabhathp on 1/23/17.
 */
 public class Main {
 
